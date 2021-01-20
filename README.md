@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+Watch the demo at https://youtu.be/GIM5irN4Ix0
+
+# Getting Started
 
 Clone the project:
 
